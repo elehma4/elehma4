@@ -2,7 +2,7 @@
 
 ### I'm currently enrolled in Digital Crafts for Full-Stack Web Development. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim&theme=tokyonight)
 
 <!--
 **ETH1Elohim/ETH1Elohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
