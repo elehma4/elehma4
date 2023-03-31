@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim&theme=tokyonight)
 
-## [Big O Notation](https://github.com/ETH1Elohim/Big-O)
+### [Info on Big O Notation](https://github.com/ETH1Elohim/Big-O)
