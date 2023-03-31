@@ -9,12 +9,19 @@
 
 ### Big O Table:
 Notation | Name(time) | Speed
+--- | --- | --- 
 O(1) | constant | Instant
+--- | --- | --- 
 O(logn) | logarithmic | Fast
+--- | --- | --- 
 O(n) | linear | Average
+--- | --- | --- 
 O(nlogn) | nlogn | Ok
+--- | --- | --- 
 O(n2) |	quadratic | Slow
+--- | --- | --- 
 O(kn) | exponential | Get Out...
+--- | --- | --- 
 
 <img src="https://miro.medium.com/v2/resize:fit:1650/1*iQkFjNn02oogc2Yv27-pyQ.png" alt="" title="BigO Visual">
 
