@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### I'm currently enrolled in Digital Crafts for Full-Stack Web Development and am looking for roles as a developer.
+### Enrolled in Digital Crafts for Full-Stack Web Development and am looking for a role as a developer.
 
 #### View my Full Stack Project: https://github.com/ETH1Elohim/boxBuddy-fullstack
 
