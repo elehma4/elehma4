@@ -1,6 +1,8 @@
-## Hi there! 👋 Big fan of React & Tailwind :D
+## Hi there! 👋
 
 ### Enrolled in Digital Crafts for Full-Stack Web Development and am looking for a role as a developer.
+
+### Big fan of React & Tailwind :D
 
 ### View My Portfolio: https://elehman-portfolio-nextjs.vercel.app/
 <br>
