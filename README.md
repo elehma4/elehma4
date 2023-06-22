@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Hi there! 👋 
 
-### Enrolled in Digital Crafts for Full-Stack Web Development and am looking for a role as a developer.
+### Full-Stack Web Developer and looking for a new role to fill!
 
 ### Big fan of React & Tailwind :D
 
