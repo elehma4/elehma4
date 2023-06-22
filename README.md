@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 👋 Big fan of React & Tailwind :D
 
 ### Enrolled in Digital Crafts for Full-Stack Web Development and am looking for a role as a developer.
 
