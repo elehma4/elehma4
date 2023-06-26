@@ -1,8 +1,6 @@
 ## Hi there! 👋 
 
-### Full-Stack Web Developer and looking for a new role to fill!
-
-### Big fan of React & Tailwind :D
+### Full-Stack Web Developer - looking for a new role to fill!
 
 ### View My Portfolio here: https://elehman-portfolio-nextjs.vercel.app/
 <br>
