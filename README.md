@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-### Full-Stack Web Developer - looking for a new role to fill!
+### JR Full-Stack Developer & Blockchain Enthusiast - looking for a new role to fill!
 
 ### View My Portfolio: https://elehman-portfolio-nextjs.vercel.app/
 <br>
