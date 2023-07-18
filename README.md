@@ -2,6 +2,8 @@
 
 ### I'm a JR Full-Stack Developer & Blockchain Enthusiast
 
+### Currently Deving SimpFi @DecOps
+
 ### View My Portfolio: https://elehman-portfolio-nextjs.vercel.app/
 <br>
 
