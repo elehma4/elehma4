@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-### I'm a Full-Stack Developer & Blockchain Enthusiast
+### I'm a Full-Stack Developer & UX/UI Leader
 
 ### Currently developing SimpFi.AI with <a href='https://www.linkedin.com/company/decops/mycompany/'>DecOps</a>
 <br>
