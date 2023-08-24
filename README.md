@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-### I'm a JR Full-Stack Developer & Blockchain Enthusiast
+### I'm a Full-Stack Developer & Blockchain Enthusiast
 
 ### Currently developing SimpFi.AI with <a href='https://www.linkedin.com/company/decops/mycompany/'>DecOps</a>
 <br>
