@@ -8,4 +8,7 @@ I am currently deeply involved in client-side development for <a href='https://s
 
 <br>
 
+I am currently contributing to private repositories at DecOps. Want to learn more? 
+Email me at elehman.development@gmail.com 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim&theme=tokyonight)
