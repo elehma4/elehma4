@@ -7,5 +7,6 @@
 I am currently contributing to private repos. Want to learn more? 
 Email me at elehman.development@gmail.com 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim&theme=tokyonight)
-![Github stats:](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim)
+![Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=ETH1Elohim&theme=tokyonight)
+<b>:</b>
+![GitHub:](https://github-readme-stats.vercel.app/api?username=ETH1Elohim&show_icons=true)
