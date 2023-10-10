@@ -1,6 +1,6 @@
-## Hi there! Welcome to my github. 👋 
+### Hi there & Welcome to my GitHub 👋 
 
-<b>Existing Roles:</b>
+<b>My current Roles:</b>
 - <a href='https://www.linkedin.com/company/decops/'>DecOps</a> - Full Stack Developer & SCRUM leader
 - <a href='www.dappfuse.com'>DappFuse - Full Stack Engineer</a>
 
