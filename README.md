@@ -1,5 +1,8 @@
 ## Hi there! 👋 
 
-### I'm a Full Stack Developer & Front End SCRUM lead at <a href='https://www.linkedin.com/company/decops/'>DecOps</a>
+### Current Roles:
+- <a href='https://www.linkedin.com/company/decops/'>DecOps</a> - Full Stack Developer & SCRUM leader
+- <a href='www.dappfuse.com'>DappFuse - Full Stack Engineer</a>
 
-<b>Skills:</b> JavaSript · React · Tailwind CSS · Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Mongo · Redux/RTK · UX/UI Development · Databases · Debugging · Software Architecture · Nodes · Smart Contracts · Project Management · Communication
+### Skills & Expertise:
+JavaSript · React · Tailwind CSS · Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Mongo · Redux/RTK · UX/UI Development · Databases · Debugging · Software Architecture · Nodes · Smart Contracts · Project Management · Communication · Analytics 
