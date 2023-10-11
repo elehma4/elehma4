@@ -5,4 +5,4 @@
 - <a href='https://www.dappfuse.com'>DappFuse - Full Stack Engineer</a>
 
 <b>Skills & Expertise:</b> <br>
-JavaSript · React · Tailwind CSS · Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Mongo · Redux/RTK · UX/UI Development · Databases · Debugging · Software Architecture · Nodes · Smart Contracts · Project Management · Communication · Analytics 
+JavaSript · React · Tailwind CSS · Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Mongo · S3 · Redux/RTK · UX/UI Development · Databases · Debugging · Software Architecture · Nodes · Smart Contracts · Project Management · Communication · Analytics 
