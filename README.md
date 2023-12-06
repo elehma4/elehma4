@@ -1,7 +1,7 @@
 ### Hi there & Welcome to my GitHub 👋 
 
 <b>My current Roles:</b>
-- <a href='https://www.linkedin.com/company/decops/'>DecOps</a> - Full Stack Developer & SCRUM leader
+- <a href='https://www.communitylabs.com/'>Community Labs</a> - Protocol Engineer (ArConnect)
 - <a href='https://www.dappfuse.com'>DappFuse - Full Stack Engineer</a>
 
 <b>Skills & Expertise:</b> <br>
