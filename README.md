@@ -1,2 +1,2 @@
-- <a href='https://www.communitylabs.com/'>Community Labs</a> - Protocol Engineer (ArConnect)
+- <a href='https://www.arconnect.io/'>ArConnect</a> - #2 Open-Source Developer (314 commits 9,264 ++ 3,656 --)
 - <a href='https://www.dappfuse.com'>DappFuse</a> - Co-Founder & Full Stack Engineer
