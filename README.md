@@ -1,2 +1,2 @@
-- <a href='https://www.arconnect.io/'>ArConnect</a> - #2 Open-Source Developer (314 commits 9,264 ++ 3,656 --)
-- <a href='https://www.dappfuse.com'>DappFuse</a> - Co-Founder & Full Stack Engineer
+- <a href='https://github.com/arconnectio/ArConnect/graphs/contributors'>ArConnect Github</a> - developer (open source) (20k+ WAU | 300+ commits)
+- <a href='https://www.dappfuse.com'>DappFuse</a> - Co-Founder & Full Stack Engineer (private)
