@@ -1,4 +1,4 @@
-- Full Stack Web Development
+- full stack web development
 - <a href='https://www.dappfuse.com'>DappFuse</a> - co-founder & full stack engineer (private)
 - <a href='https://github.com/arconnectio/ArConnect/graphs/contributors'>Ex ArConnect Protocol Engineer</a> - #2 Contributor (Open-Source | Arweave Blockchain Wallet)
 
