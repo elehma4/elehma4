@@ -7,7 +7,4 @@
 - Site Reliability Engineering, Solutions Engineering, System Architecture, DevOps, GitHub
 - SCRUM, Agile Methodologies, Team Leadership, Product Demonstrations, Sales Engineering
 
-- Front End: TypeScript, React.js, Next.js, Tailwind CSS
-- Back End: Node.js, Express.js, PostgreSQL, MongoDB
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elehma4&theme=shadow_blue&show_icons=true)
