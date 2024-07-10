@@ -3,7 +3,7 @@
 - studying computer science in my free time
 - seeking a long-term development role
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elehma4&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elehma4&hide_progress=true&theme=dark)
 
 
 - Front-End Development, Back-End Development, REST APIs, Responsive Design, Database Management
