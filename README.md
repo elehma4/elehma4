@@ -1,6 +1,6 @@
-- full stack engineer
+- software engineer
 - building solutions at the edge of tech
-- studying computer science in my free time
+- independently studying computer science
 - seeking a long-term development role
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elehma4&hide_progress=true&theme=dark)
