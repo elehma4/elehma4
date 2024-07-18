@@ -3,6 +3,7 @@
 - independently studying computer science
 - seeking a long-term development role
 
+---- ---- ----
  
 - TypeScript, React.js, Next.js, Tailwind CSS
 - JavaScript, HTML, CSS, Vue.js
@@ -10,6 +11,7 @@
 - Redux, Redis, MongoDB, PostgreSQL
 - Expanding my craft into Rust and Solidity
 
+---- ----  ----
 
 - Front-End Development, Back-End Development, REST APIs, Responsive Design, Database Management
 - Site Reliability Engineering, Solutions Engineering, System Architecture, DevOps, GitHub
