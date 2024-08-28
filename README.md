@@ -10,7 +10,7 @@
 - JavaScript, HTML, CSS, Vue.js
 - Express.js, Sequelize.js, Passport.js
 - Redux, Redis, MongoDB, PostgreSQL
-- Allowing my curiousity to spread into Swift, Rust, and Solidity
+- Allowing my curiousity to spread into React Native, Rust, and Solidity
 
 ---- ---- ----
 
