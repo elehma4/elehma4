@@ -1,16 +1,15 @@
 - software engineer
-- seeking a long-term development role
-- freedom advocate & homestead enthusiast
-- building solutions at the edge of tech
-- always learning and growing 
+- computer science student
+- seeking a long-term position at a cutting-edge company
+- building and growing solutions at the edge of tech
 
 ---- ---- ----
  
 - Experienced in TypeScript, Node.js, React.js, Next.js, and Tailwind CSS
 - JavaScript, HTML, CSS, Vue.js
 - Express.js, Sequelize.js, Passport.js
-- Redux, Redis, MongoDB, PostgreSQL
-- Allowing my curiousity to spread into React Native, Rust, and Solidity
+- SQL, PostgreSQL, MongoDB, Redux, Redis
+- Allowing my curiousity to spread into Rust and Solidity
 
 ---- ---- ----
 
