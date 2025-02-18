@@ -1,15 +1,13 @@
-- software engineer
+- growth engineer at intuition machines
 - computer science student
-- seeking a long-term position at a cutting-edge company
 - building and growing solutions at the edge of tech
 
 ---- ---- ----
  
 - Experienced in TypeScript, Node.js, React.js, Next.js, and Tailwind CSS
-- JavaScript, HTML, CSS, Vue.js
+- Python, JavaScript, HTML, CSS, Vue.js
 - Express.js, Sequelize.js, Passport.js
 - SQL, PostgreSQL, MongoDB, Redux, Redis
-- Allowing my curiousity to spread into Rust and Solidity
 
 ---- ---- ----
 
@@ -17,6 +15,7 @@
 - Solutions Engineering, System Architecture, Site Reliability Engineering
 - RESTful APIs, Responsive Designs, Database Management, DevOps, Git
 - SCRUM, Agile, Team Leadership, Project Ownership, Product Demos, Sales Engineering
+- Data Analysis, Marketing Pipelines, SEO
 
 ---- ---- ----
 
